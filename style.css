@@ -1,4 +1,46 @@
-html {
-  height: 100%;
-  width: 100%;
+.p {
+  max-height: 200px;
+  max-width: 200px;
+  }
+
+.navbar{
+  margin: 10px;
+}
+
+.menu-items {
+  color: blue;
+  display: flex;
+  justify-content: center; 
+}
+
+.items {
+  margin: 15px;
+  list-style: none;
+}
+
+
+.p {
+  text-align: center; 
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+.fick {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.pp {
+  text-align: center;
+}
+
+body {
+  font-family: 'Verdana', monospace;
+}
+
+.suck {
+  text-align: center
 }
